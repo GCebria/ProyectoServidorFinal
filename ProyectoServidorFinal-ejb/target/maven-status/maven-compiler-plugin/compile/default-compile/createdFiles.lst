@@ -1,0 +1,6 @@
+com\fpmislata\service\UserService.class
+com\fpmislata\service\UserServiceLocal.class
+com\fpmislata\domain\User_.class
+com\fpmislata\repository\UserDao.class
+com\fpmislata\repository\UserDaoLocal.class
+com\fpmislata\domain\User.class

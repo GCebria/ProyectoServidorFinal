@@ -9,6 +9,6 @@
 <html>
     <body>
         <h2>Sistema de Gestión de Usuarios</h2>
-        <a href="ControllerUser">Listado de Usuarios</a>
+        <a href="#">Listado de Usuarios</a>
     </body>
 </html>

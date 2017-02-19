@@ -7,6 +7,7 @@ package com.fpmislata.service;
 
 import com.fpmislata.domain.User;
 import com.fpmislata.repository.UserDaoLocal;
+import com.fpmislata.repository.UserDao;
 import java.util.List;
 import javax.ejb.EJB;
 import javax.ejb.Stateless;
